@@ -32,6 +32,7 @@ for (let i = 0; i < absentStudents.length; i++) {
   }
 }
 
+// This is an Array which contains some quotes
 const quotesArr = [
   `I am so clever that sometimes I don’t understand a single word of what I am saying.`,
   `People say nothing is impossible, but I do nothing every day.`,
@@ -55,6 +56,7 @@ const quotesArr = [
 
 const randomQuoteIndex = Math.floor(Math.random() * quotesArr.length);
 
+// This is an Array which contains some Emojis
 const emojiArr = [
   "😈",
   "😂",
